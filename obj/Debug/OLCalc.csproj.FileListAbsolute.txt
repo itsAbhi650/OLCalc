@@ -1,0 +1,10 @@
+C:\Users\Abhinav\source\repos\OLCalc\OLCalc\bin\Debug\OLCalc.exe.config
+C:\Users\Abhinav\source\repos\OLCalc\OLCalc\bin\Debug\OLCalc.exe
+C:\Users\Abhinav\source\repos\OLCalc\OLCalc\bin\Debug\OLCalc.pdb
+C:\Users\Abhinav\source\repos\OLCalc\OLCalc\obj\Debug\OLCalc.csprojAssemblyReference.cache
+C:\Users\Abhinav\source\repos\OLCalc\OLCalc\obj\Debug\OLCalc.Form1.resources
+C:\Users\Abhinav\source\repos\OLCalc\OLCalc\obj\Debug\OLCalc.Properties.Resources.resources
+C:\Users\Abhinav\source\repos\OLCalc\OLCalc\obj\Debug\OLCalc.csproj.GenerateResource.cache
+C:\Users\Abhinav\source\repos\OLCalc\OLCalc\obj\Debug\OLCalc.csproj.CoreCompileInputs.cache
+C:\Users\Abhinav\source\repos\OLCalc\OLCalc\obj\Debug\OLCalc.exe
+C:\Users\Abhinav\source\repos\OLCalc\OLCalc\obj\Debug\OLCalc.pdb
