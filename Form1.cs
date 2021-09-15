@@ -12,7 +12,7 @@ namespace OLCalc
             InitializeComponent();
         }
 
-        private void button17_Click(object sender, EventArgs e)
+        private void CalcBtn_Click(object sender, EventArgs e)
         {
             Button CalBtn = ((Button)sender);
             textBox1.Text = CalBtn.Text != "=" ? textBox1.Text + CalBtn.Text : dt.Compute(textBox1.Text, "").ToString();
